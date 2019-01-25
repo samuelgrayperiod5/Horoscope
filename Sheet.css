@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(199,169,243,0.9)
+}
+
+#heading {
+    color: #f3e314 ;
+    font-size: 90px;
+    position: relative;
+    text-align: center;
+}
+#name {
+    color: #f3e314;
+    font-size: 32px;
+    position: relative;
+    text-align: center;
+}
+#namePrompt {
+    color: #f3e314;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+}
+#monthPrompt {
+    color: #f3e314;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+}
+#dayPrompt {
+    color: #f3e314;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+}
+
+#monthHolder {
+    position: relative;
+    text-align: center;
+}
+
+#dayHolder {
+    position: relative;
+    text-align: center;
+}
+
+#buttonContainer {
+    position: relative;
+    text-align: center;
+}
+
+#boxName {
+    position: relative;
+    text-align: center;
+}
+
+#imageHolder {
+    position: relative;
+    text-align: center;
+}
+
+#descriptions {
+    color: #277af3;
+    position: relative;
+    text-align: center;
+}
+
+#sign {
+    color: #277af3;
+    position: relative;
+    text-align: center;
+}
